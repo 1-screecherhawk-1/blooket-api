@@ -1,0 +1,8 @@
+{
+  "name": "gimkitbot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js || node bot.js || node main.js"
+  }
+}
